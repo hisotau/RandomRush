@@ -1,0 +1,4 @@
+name: RandomRush
+version: '${version}'
+main: org.hisotau.randomrush.RandomRush
+api-version: '1.20'
