@@ -1,0 +1,8 @@
+SpawnLocation:
+
+  HubLocation:
+    location: world,8,-59,8
+
+  ArenaLocation:
+    location1: world,60,-59,9
+    location2: world,60,-59,24
